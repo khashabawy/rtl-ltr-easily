@@ -19,7 +19,7 @@ Please feel free to add any DOMS or use it in specific dom
 
 Good ideas where to use
 ==============
-If your site have a reading-pan for writing or reading text , you can make it toggle direction so that any one can use this important reading-ban in LTR or RTL without having to make a speacial full site style in RTL or LTR
+If your site have a reading-pan for writing or reading text , you can make it toggle direction so that anyone can use this important reading-ban in LTR or RTL without having to make a speacial full site style in RTL or LTR
 
 
 
