@@ -6,7 +6,7 @@ with this small javascript you can add abutton on your site to convert it totall
 
 How to user
 ==============
-just include the .js and .css files inside your script <HEAD></HEAD> tags
+just include the .js and .css files inside your script HEAD tags
 
 
 
