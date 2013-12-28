@@ -4,7 +4,7 @@ rtl-ltr-easily
 with this small javascript you can add abutton on your site to convert it totally from rtl to ltr direction
 
 
-How to user
+How to use
 ==============
 just include the .js and .css files inside your script HEAD tags
 
